@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JsonExample</string>
+    <string name="id_vkontakte">Введите id vkontakte</string>
+    <string name="search">Search!</string>
+    <string name="text_result">Результат будет отобразен здесь</string>
+
+    <string name="error_message">Произошла ошибка, попробуйте еще раз!</string>
+</resources>
